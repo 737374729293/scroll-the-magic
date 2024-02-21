@@ -25,7 +25,7 @@ It's the perfect library for you, if you want to ...
 Check out [the demo page](http://scrollmagic.io), browse [the examples](http://scrollmagic.io/examples/index.html) or read [the documentation](http://scrollmagic.io/docs/index.html) to get started.  
 If you want to contribute please [get in touch](mailto:e-mail@janpaepke.de) and let me know about your specialty and experience.
 
-## About the Library
+## About the Library.
 
 ScrollMagic is a scroll interaction library.
 
@@ -55,7 +55,7 @@ ScrollMagic was developed with these principles in mind:
 ScrollMagic takes an object-oriented approach using a controller for each scroll container and attaching multiple scenes defining what should happen at what part of the page. While this offers a great deal of control, it might be a little confusing, especially if you're just starting out with javascript.  
 If the above points are not crucial for you and you are just looking for a simple solution to implement css animations I would strongly recommend taking a look at the awesome [skrollr](http://prinzhorn.github.io/skrollr/) project. It almost solely relies on element attributes and thus requires minimal to no javascript knowledge.
 
-## Availability
+## Availability.
 
 To get your copy of ScrollMagic you have the choice between four options:
 
@@ -97,7 +97,7 @@ https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndica
 https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndicators.min.js
 ```
 
-## Installation
+## Installation.
 
 Include the **core** library in your HTML file:
 
